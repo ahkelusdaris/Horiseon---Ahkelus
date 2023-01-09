@@ -15,4 +15,4 @@ SO THAT our own site is optimized for search engines
 
 ## Installation
 
-Please follow this link to view the page - 
+Please follow this link to view the page - https://ahkelusdaris.github.io/Horiseon---Ahkelus/
